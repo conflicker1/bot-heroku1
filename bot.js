@@ -1,4 +1,4 @@
-var Commando = require("discord.js");
+const Commando = require("discord.js");
 const bot = new Commando.Client();
 const TOKEN = 'NTIyNjkxMTQ3ODY1NTIyMTg3.DvO-EA.SrvJOiE5DNTigT3YY95ezEMvklk'
 
